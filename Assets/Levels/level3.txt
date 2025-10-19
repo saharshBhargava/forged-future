@@ -1,0 +1,18 @@
+title:A New Environment
+map:
+W                                                                        DDDDDDDD                                                                      DDDDDDDD                       W                                     
+W                          T S                                                                                                                                                        W
+W                        FFFFF                                                                                                                                                        W     
+W       -                                                                                                  -   S                                                                      W
+W      FFF                                                                                   FFF         CCCCCCC    M                                                                 W                               
+W                     +                                                                                                                                                               W
+W              M     FFF                                                                                                                                                              
+W          S                                     A                                                                                                                                S   ]
+W    CCCCCCC                                   FFFRR                                                                         FFFRR                                             FFFFFFFW
+W @                                                                    $                                                                             $                                W
+W                                                                   FFFFFFFFFFFFFFFF     M                                                        FFFFFFFFFFFFFFFF                    W
+WFFF                                                                                                                                                                                  W
+W                                                                                                                                                                                     W
+W                                                                                                                                                                                     W
+WEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEW
+

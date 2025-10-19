@@ -1,0 +1,17 @@
+title:BOSS BATTLE
+map:
+W                                                              W
+W            .    K                                            W
+W            F    CCCEEECCC                                    W
+W                             FFFFF                            W
+W                                                     T        W                                                                   
+W                                     CCCCC        FFFFF       W                                                                                                                    
+W                                                              W                                          
+W                        S                     F               W
+W           FFEEEFFF     F     FFF                             W
+W     FF                                                       W
+W                                      FFFFF                   W
+WF                                                             W
+W @                                             FFFFF          
+W           B                                                  |
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG

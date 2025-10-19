@@ -1,0 +1,17 @@
+title:A New Environment
+map:
+W            W        W K      WW              WW                                                             WW 
+W            W        WFFF     WW              WW                                                             WW
+W            W      T W        WW                          T                J           S                     WW            
+W                  FFFW       $WW                         FFF              FFF        FFF                     WW                                     
+W         FFFW        W     FFFWW           FFFWWRRR                                       
+W            W   $    W        WW              WW                                               M                    
+W    RRR     W FFF    WFFF     WW   FFF        WW                      FFF                                     ]
+W            W        W                        WW                                                          FFFWW 
+WFFF      FFFW        W        |             T WW               M                                             WW
+W            W     FFFW     FFFWWFFF   M    FFFWW             $         S                         S           WW
+W   FFF      W        W        WW              WW         FFFFF       FFF                FFF    FFF           WW 
+W            W FFF    W FFF    WW              SW                                                             WW 
+W @     FFF  W        W        WW     FFF      WW                                                             WW 
+W     -      W                 WW        -     WW                                                             WW
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGEEEEEEEEEEEEEEEGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG

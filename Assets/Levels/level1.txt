@@ -1,0 +1,17 @@
+title:A New Environment
+map:
+W                         $                                    WW                                                              W
+W                         FFFFF                                WW                              FFFFF                           W
+W                   T                K                         WW                        T                                     W
+W                 FFFFF             FFF                        WW                       FFF                                    W
+W                                                              WW                                                              W
+W                                          CCCCC                                                                                                                             
+W                                                              |                        $                                      ]         
+W                                   FFF             M       FFFWWFFF                FFFFFFF                                 FFFW
+W                                                              WW                                                              W
+W                 FFF    FFEEEFF           FFFFF               WW        FFF   M               FFFRR             FFFFFFF       W
+W                                                   FFF        WW   -                                                          W
+W          FFF                                                 WWFFFFF                                  RRFFF                  W
+W  @                                                           WW                                                              W
+W      $                                                       WW                                                              W
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
